@@ -1,0 +1,10 @@
+Vytvorené / Date of creation    : 17. január 2025  
+Jazyk / Language                : Python  
+Jazyky aplikácie / App Language : Slovak  
+
+-------------------------------------------------------------------------  
+
+v.1.0.0  
+Vytvorený GUI aplikácie | Created GUI application  
+Pridaná podpora HASH algoritmov | Added support for HASH algorithms  
+
