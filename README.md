@@ -6,7 +6,7 @@ File Hasher Analyzer is a powerful and easy-to-use tool for computing cryptograp
 
 ---
 
-Currently, the program is available in **Slovak**, but I plan to add **English language support** in the next version.
+The program supports two languages: **English and Slovak**.  
 
 
 ![file-hasher](https://github.com/user-attachments/assets/461d9bcd-71c9-466b-9315-2a7feb5a0040)
