@@ -20,4 +20,4 @@ The program supports two languages: **English and Slovak**.
 ✅ **Offline Mode** – Works without an internet connection.  
 
 
-![file-hasher](https://github.com/user-attachments/assets/461d9bcd-71c9-466b-9315-2a7feb5a0040)
+![file-hasher](https://github.com/user-attachments/assets/aa0aa659-41ee-4b93-add3-1529be8e7da0)
