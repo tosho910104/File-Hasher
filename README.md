@@ -10,7 +10,7 @@ The program supports two languages: **English and Slovak**.
 
 ---
 
-🎯 **Key Features**
+## 🎯 **Key Features**
 
 ✅ **Support for Multiple Algorithms** – Calculate hashes using **MD5, SHA-1, SHA-256, SHA-512, SHA-3, BLAKE2**, and more.  
 ✅ **Easy to Use** – Simply select a file and instantly get all hash values.  
