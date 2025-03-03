@@ -8,3 +8,6 @@ v.1.0.0
 Vytvorený GUI aplikácie | Created GUI application  
 Pridaná podpora HASH algoritmov | Added support for HASH algorithms  
 
+v.1.0.1
+Podpora angličtiny | English language support
+
